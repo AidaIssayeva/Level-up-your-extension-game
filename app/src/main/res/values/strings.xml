@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Level up your extension game</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_html"><![CDATA[<br><b>What is Android?</b><br>The platform changing what mobile can do.<br><br><b>Powering your phone, tablet, watch, TV and car.</b><br>When a device goes from just working to actually making life easier, Android is behind it.<br><br><b>Always pushing what\'s possible.</b><br>Android is open to everyone: developers, designers and device makers. That means more people can experiment, imagine and create things the world has never seen.<br><br><b>Your phone stays safe with built-in security.</b><br>When you have Android, you have security that’s right there out of the box and never stops working.<br><br><b>You stay in control of your data.</b><br>On Android, you get to decide when and if your data is shared, like your Web & App Activity or Location History.<br><br>For more FAQs, please visit <a href="https://www.android.com/what-is-android/">Android website.</a>]]></string>
+
+    <string name="what_is_android">What is Android?</string>
+    <string name="what_is_android_answer">The platform changing what mobile can do.</string>
+    <string name="powering_everything">Powering your phone, tablet, watch, TV and car.</string>
+    <string name="powering_everything_answer">When a device goes from just working to actually making life easier, Android is behind it.</string>
+    <string name="pushing_possibilities">Always pushing what\'s possible.</string>
+    <string name="pushing_possibilities_answer">Android is open to everyone: developers, designers and device makers. That means more people can experiment, imagine and create things the world has never seen.</string>
+    <string name="security">Your phone stays safe with built-in security</string>
+    <string name="security_answer">When you have Android, you have security that’s right there out of the box and never stops working.</string>
+    <string name="control">You stay in control of your data.</string>
+    <string name="control_answer">On Android, you get to decide when and if your data is shared, like your Web and App Activity or Location History.</string>
+    <string name="faq">For more FAQs, please visit</string>
+    <string name="android_website">https://www.android.com/what-is-android/</string>
+</resources>
